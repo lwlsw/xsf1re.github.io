@@ -1,0 +1,35 @@
+{
+	"tintColor": "#ff774f",
+	"title": "XsF1re",
+	"views": [
+	{
+	"markdown": "XsF1re | 새콤한 칠리소스(저장소)의 관리자",
+	"useSpacing": true,
+	"useRawFormat": true,
+	"class": "DepictionMarkdownView"
+	},
+	{
+	"class": "DepictionSeparatorView"
+	},
+	{
+	"title": "문의",
+	"class": "DepictionHeaderView"
+	},
+	{
+	"title": "이메일 보내기",
+	"action": "mailto:shg1725x@yahoo.com",
+	"class": "DepictionTableButtonView"
+	},
+	{
+	"title": "트위터 팔로우하기",
+	"action": "https://twitter.com/XsF1re/",
+	"class": "DepictionTableButtonView"
+	},
+	{
+	"markdown": "<small style=\"color: #000; font-size: 10pt;\">© XsF1re 2018-2019</small><style>body { text-align: center; }</style>",
+	"useRawFormat": true,
+	"class": "DepictionMarkdownView"
+	}
+	],
+	"class": "DepictionStackView"
+}

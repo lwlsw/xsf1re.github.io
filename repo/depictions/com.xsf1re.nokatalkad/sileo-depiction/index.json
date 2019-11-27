@@ -1,0 +1,221 @@
+{  
+   "minVersion":"0.3",
+   "headerImage":"https://repo.xsf1re.kr/depictions/com.xsf1re.nokatalkad/sileo-depiction/header.png",
+   "tintColor":"ff774f",
+   "tabs":[  
+      {  
+         "tabname":"Details",
+         "views":[  
+            {  
+               "itemCornerRadius":6,
+               "itemSize":"{168, 300}",
+               "screenshots":[  
+                  {  
+                     "accessibilityText":"Screenshot",
+                     "url":"https://repo.xsf1re.kr/depictions/com.xsf1re.nokatalkad/screenshots/pic0.png"
+                  }
+               ],
+               "class":"DepictionScreenshotsView"
+            },
+            {  
+               "markdown":"카카오톡 앱에 있는 광고를 제거합니다.<br>8.6.3 앱버전 이상에서 작동 확인했습니다.",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"Remove Ads for KakaoTalk.<br>Confirmed on 8.6.3 app version.",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"정보",
+               "class":"DepictionHeaderView"
+            },
+            {  
+               "title":"버전",
+               "text":"1.3.1",
+               "class":"DepictionTableTextView"
+            },
+            {  
+               "title":"공개일",
+               "text":"2019년 11월 7일",
+               "class":"DepictionTableTextView"
+            },
+            {  
+               "title":"가격",
+               "text":"무료",
+               "class":"DepictionTableTextView"
+            },
+            {  
+               "title":"개발자",
+               "text":"XsF1re",
+               "class":"DepictionTableTextView"
+            },
+            {  
+               "title":"개발자에게 문의하기",
+               "action":"depiction-https://repo.xsf1re.kr/depictions/contact_developer.json",
+               "class":"DepictionTableButtonView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"후원",
+               "class":"DepictionHeaderView"
+            },
+            {  
+               "title":"토스로 후원하기",
+               "action":"https://repo.xsf1re.kr/depictions/resources/donate/toss.html",
+               "class":"DepictionTableButtonView"
+            },
+            {  
+               "title":"카카오페이로 후원하기",
+               "action":"https://repo.xsf1re.kr/depictions/resources/donate/kakaopay.html",
+               "class":"DepictionTableButtonView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"칠리소스가 담긴 새콤한 Repo!",
+               "class":"DepictionHeaderView"
+            },
+            {  
+               "markdown":"<small style=\"color: #000; font-size: 10pt;\">© XsF1re 2018-2019</small><style>body { text-align: center; }</style>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            }
+         ],
+         "class":"DepictionStackView"
+      },
+      {  
+         "tabname":"Changelog",
+         "views":[ 
+            {  
+               "title":"버전 1.3.1",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"더보기 탭에서 메일이나 캘린더 일정 관련 메뉴가 보이지 않는 버그를 고쳤습니다.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 11월 7일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 1.3",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"검색, 새로운 채팅 메뉴에 있는 광고를 제거하며 더보기 탭에서 빈 공간에 스크롤되는 버그를 고쳤습니다.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 6월 9일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 1.2",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"일부 버그 수정 및 광고제거 기능 개선",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 6월 8일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 1.1.1",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"일부 버그 수정 및 광고제거 기능 개선",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 6월 8일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 1.1",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"일부 버그 수정 및 광고제거 기능 개선",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 6월 8일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 1.0",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"NoKaTalkAD 앱 광고제거 트윅 첫 출시.<br />8.4.1 앱버전에서 작동 확인되었습니다.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 6월 7일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "markdown":"<small style=\"color: #000; font-size: 10pt;\">© XsF1re 2018-2019</small><style>body { text-align: center; }</style>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            }
+         ],
+         "class":"DepictionStackView"
+      }
+   ],
+   "class":"DepictionTabView"
+}

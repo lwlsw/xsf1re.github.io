@@ -1,0 +1,525 @@
+{  
+   "minVersion":"0.3",
+   "headerImage":"https://repo.xsf1re.kr/depictions/kr.xsf1re.flyjb/sileo-depiction/header.png",
+   "tintColor":"ff774f",
+   "tabs":[  
+      {  
+         "tabname":"Details",
+         "views":[  
+            {  
+               "itemCornerRadius":6,
+               "itemSize":"{168, 300}",
+               "screenshots":[  
+                  {  
+                     "accessibilityText":"Screenshot",
+                     "url":"https://repo.xsf1re.kr/depictions/kr.xsf1re.flyjb/screenshots/pic0.png"
+                  }
+               ],
+               "class":"DepictionScreenshotsView"
+            },
+            {  
+               "markdown":"(베타테스터용) 날아오르라~ 제비여!",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"(BetaTester Only) Fly~ JB!",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"정보",
+               "class":"DepictionHeaderView"
+            },
+            {  
+               "title":"버전",
+               "text":"0.2~beta9",
+               "class":"DepictionTableTextView"
+            },
+            {  
+               "title":"공개일",
+               "text":"2019년 9월 28일",
+               "class":"DepictionTableTextView"
+            },
+            {  
+               "title":"가격",
+               "text":"무료",
+               "class":"DepictionTableTextView"
+            },
+            {  
+               "title":"개발자",
+               "text":"XsF1re",
+               "class":"DepictionTableTextView"
+            },
+            {  
+               "title":"개발자에게 문의하기",
+               "action":"depiction-https://repo.xsf1re.kr/depictions/contact_developer.json",
+               "class":"DepictionTableButtonView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"후원",
+               "class":"DepictionHeaderView"
+            },
+            {  
+               "title":"토스로 후원하기",
+               "action":"https://repo.xsf1re.kr/depictions/resources/donate/toss.php",
+               "class":"DepictionTableButtonView"
+            },
+            {  
+               "title":"카카오페이로 후원하기",
+               "action":"https://repo.xsf1re.kr/depictions/resources/donate/kakaopay.php",
+               "class":"DepictionTableButtonView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"칠리소스가 담긴 새콤한 Repo!",
+               "class":"DepictionHeaderView"
+            },
+            {  
+               "markdown":"<small style=\"color: #000; font-size: 10pt;\">© XsF1re 2018-2019</small><style>body { text-align: center; }</style>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            }
+         ],
+         "class":"DepictionStackView"
+      },
+      {  
+         "tabname":"Changelog",
+         "views":[  
+            {  
+               "title":"버전 0.2~beta9",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"자세한 업데이트 사항은 설정에 있는 패치 내용 보기를 통해 알아보세요.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 9월 28일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 0.2~beta8",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"자세한 업데이트 사항은 설정에 있는 패치 내용 보기를 통해 알아보세요.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 9월 25일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 0.2~beta7",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"자세한 업데이트 사항은 설정에 있는 패치 내용 보기를 통해 알아보세요.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 9월 24일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 0.2~beta6",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"자세한 업데이트 사항은 설정에 있는 패치 내용 보기를 통해 알아보세요.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 9월 23일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 0.2~beta5",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"자세한 업데이트 사항은 설정에 있는 패치 내용 보기를 통해 알아보세요.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 9월 23일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 0.2~beta4",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"자세한 업데이트 사항은 설정에 있는 패치 내용 보기를 통해 알아보세요.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 9월 22일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 0.2~beta3",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"자세한 업데이트 사항은 설정에 있는 패치 내용 보기를 통해 알아보세요.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 9월 22일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 0.2~beta2",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"자세한 업데이트 사항은 설정에 있는 패치 내용 보기를 통해 알아보세요.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 9월 21일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 0.2~beta1",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"자세한 업데이트 사항은 설정에 있는 패치 내용 보기를 통해 알아보세요.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 9월 20일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 0.1.1~beta12",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"자세한 업데이트 사항은 설정에 있는 패치 내용 보기를 통해 알아보세요.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 9월 20일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 0.1.1~beta11",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"자세한 업데이트 사항은 설정에 있는 패치 내용 보기를 통해 알아보세요.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 9월 19일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 0.1.1~beta10",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"자세한 업데이트 사항은 설정에 있는 패치 내용 보기를 통해 알아보세요.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 9월 19일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 0.1.1~beta9",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"자세한 업데이트 사항은 설정에 있는 패치 내용 보기를 통해 알아보세요.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 9월 18일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 0.1.1~beta8",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"자세한 업데이트 사항은 설정에 있는 패치 내용 보기를 통해 알아보세요.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 9월 17일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 0.1.1~beta7",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"자세한 업데이트 사항은 설정에 있는 패치 내용 보기를 통해 알아보세요.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 9월 16일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 0.1.1~beta6",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"자세한 업데이트 사항은 설정에 있는 패치 내용 보기를 통해 알아보세요.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 9월 16일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 0.1.1~beta5",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"자세한 업데이트 사항은 설정에 있는 패치 내용 보기를 통해 알아보세요.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 9월 15일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 0.1.1~beta4",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"자세한 업데이트 사항은 설정에 있는 패치 내용 보기를 통해 알아보세요.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 9월 14일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 0.1.1~beta3",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"A12기기에서 트윅 설정이 보이지 않는 현상을 해결합니다.<br />자세한 업데이트 사항은 설정에 있는 패치 내용 보기를 통해 알아보세요.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 9월 14일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 0.1.1~beta2",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"자세한 업데이트 사항은 설정에 있는 패치 내용 보기를 통해 알아보세요.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 9월 14일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 0.1.1~beta1",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"자세한 업데이트 사항은 설정에 있는 패치 내용 보기를 통해 알아보세요.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 9월 13일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 0.1",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"공중제비 첫 출시...!",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 9월 13일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "markdown":"<small style=\"color: #000; font-size: 10pt;\">© XsF1re 2018-2019</small><style>body { text-align: center; }</style>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            }
+         ],
+         "class":"DepictionStackView"
+      }
+   ],
+   "class":"DepictionTabView"
+}

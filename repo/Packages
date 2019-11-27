@@ -1,0 +1,490 @@
+Package: com.autopear.installipa
+Architecture: iphoneos-arm
+Pre-Depends: firmware (>= 4.0), gsc.armv7
+Section: Utilities
+Priority: optional
+Description: Install IPA from the command line. Compiled for iOS 11.
+Tag: role::enduser, purpose::console
+Author: Merlin
+Name: IPA Installer Console
+dev: lonelystars
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Sponsor: thebigboss.org <http://thebigboss.org/>
+Version: 3.4.2-1
+Installed-Size: 344
+Filename: debs/com.autopear.installipa_3.4.2-1_iphoneos-arm.deb
+Size: 60820
+MD5sum: b3f61326985d96ffbc17f7df8d93975e
+SHA1: 24c73c108e97dd2a15146f385f6c8f45cd20eaa7
+SHA256: e35ca7376b2e5ed7fe5850f1504b2d5efacc4ebb5b5ec8cbf75ac5b5c3d41c77
+
+Package: com.xsf1re.combinationlockhelper
+Name: CombinationLockHelper
+Depends: mobilesubstrate, com.patsluth.swcombinationlock
+Architecture: iphoneos-arm
+Description: 비밀번호를 입력하는 창에서 Combination Lock 트윅과 키패드가 서로 겹쳐지는 버그를 수정합니다. 
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 1.0-1
+Installed-Size: 116
+Filename: debs/com.xsf1re.combinationlockhelper_1.0-1_iphoneos-arm.deb
+Size: 3652
+MD5sum: 4c4ee9b3fad07c82f092178d7cc89988
+SHA1: 2ef89b53d78003a11357e7b2cbc1c3c178346ae5
+SHA256: 0741d3a182e937ea6114e05a96efb8d2fc6610d681dcdfb1a3beb73ed2205aed
+
+Package: com.xsf1re.combinationlockhelperplus
+Name: CombinationLockHelper+
+Depends: mobilesubstrate, com.patsluth.swcombinationlock
+Architecture: iphoneos-arm
+Description: 블러효과가 있는 휠을 제거할 뿐만 아니라 비밀번호를 입력하는 창에서 Combination Lock 트윅과 키패드가 서로 겹쳐지는 버그를 수정합니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 1.0-3
+Installed-Size: 136
+Filename: debs/com.xsf1re.combinationlockhelperplus_1.0-3_iphoneos-arm.deb
+Size: 2826
+MD5sum: f9a82fd35172ee2e0acf04f6d7819a86
+SHA1: d5d6cfa786bcacb4845109344ff41a9fd5c496a4
+SHA256: a671646e6ef57fac5b05dd86ef22980618c0f9ea2c2be0454213bd7aef7d1119
+
+Package: com.xsf1re.fiveappdock11
+Name: FiveAppDock11
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: 독바에 5개의 앱을 추가시킬 수 있습니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 1.0-3+debug
+Installed-Size: 116
+Filename: debs/com.xsf1re.fiveappdock11_1.0-3+debug_iphoneos-arm.deb
+Size: 3130
+MD5sum: 6a3308ad82feee52e5e4a5d29da52be9
+SHA1: ad2ccc7ec46b509fd2de4fea5c673b913d88b301
+SHA256: 59af5ec2b36769ac5f4d9a97c570703dcb56af021c2a2bb29489db4442742a1c
+
+Package: com.xsf1re.iMessageSimpleSender
+Name: iMessageSimpleSender
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: iMessage가 활성화된 상태에서 메시지 창 밑에 서드파티 앱 목록이 자동으로 나오는 것을 방지합니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 0.0.1-12+debug
+Installed-Size: 117
+Filename: debs/com.xsf1re.iMessageSimpleSender_0.0.1-12+debug_iphoneos-arm.deb
+Size: 3742
+MD5sum: 78553e90b21f53c6ad214ed087769b1b
+SHA1: 69464ec86fb4124de0a4f2c06d151f09b3ad48ff
+SHA256: f248b9f934edb1f704d3d4670ab9e7b14f278c340fa5d5ef689e59f47776f728
+
+Package: com.xsf1re.installerkr
+Name: InstallerKR
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Installer에 한글화 패치를 적용합니다. Installer b5 버전에서 확인 완료.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 0.1.3
+Installed-Size: 184
+Filename: debs/com.xsf1re.installerkr_0.1.3_iphoneos-arm.deb
+Size: 17830
+MD5sum: e6d176109ea1e2a90785eb4a49ea2004
+SHA1: 39bcb433ecef4a42cd3c1b1dc42786f649ce68c7
+SHA256: 3aa74323d1c0b719b35c1a64e9ddebab8efaaf213ac5200722a56e779ace69c7
+
+Package: com.xsf1re.nokatalkad
+Name: NoKaTalkAD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: (베타테스터용) 카카오톡 앱에 있는 광고를 제거합니다. 8.4.1버전에서 확인 완료. 또한, 채팅 댑에서 광고가 나타나는 버그를 수정하고 더보기 탭 뿐만 아니라 검색, 새로운 채팅 메뉴에서 더많은 광고를 제거하며 더보기 탭에서 빈 공간에 스크롤되는 버그를 고쳤습니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks 
+Version: 1.3
+Installed-Size: 136
+Filename: debs/com.xsf1re.nokatalkad_1.3_iphoneos-arm.deb
+Size: 3934
+MD5sum: dd606eb5e47ef3cb4dcf6b0ce14416cd
+SHA1: a6a312d596f1d623c90c13e4b8928a4fde791a45
+SHA256: 8ca68baed870dbdc61a3bbd8511116027bbf3ce75364154006a38f08980ae02b
+SileoDepiction: https://xsf1re.github.io/repo/depictions/com.xsf1re.nokatalkad/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/com.xsf1re.nokatalkad/
+
+Package: com.xsf1re.nokatalkmunsang
+Name: NoKaTalkMunsang
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Run OneTouchMunsang without KakaoTalk App Transition.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 1.0-1
+Installed-Size: 136
+Filename: debs/com.xsf1re.nokatalkmunsang_1.0-1_iphoneos-arm.deb
+Size: 2994
+MD5sum: 9cd1294d03af6e4e96779e13eac24263
+SHA1: 78cbfdb517838b145ddb36e5cd4358b65d2b9863
+SHA256: 4aaa8b63225d2ab003ecbc8fa7ec9583ec8d4ef451fcd9346a0eedfc95833caa
+
+Package: com.xsf1re.nomoreweathersource
+Name: NoMoreWeatherSource
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: 위젯 창에서 하단에 배치되있는 날씨 정보 제공 관련 문구를 삭제합니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 0.0.1-15+debug
+Installed-Size: 117
+Filename: debs/com.xsf1re.nomoreweathersource_0.0.1-15+debug_iphoneos-arm.deb
+Size: 3130
+MD5sum: e0629f065033834d90e8f736f162b4ae
+SHA1: c5c33bb4b56193dfc81135c908dbbade896086ee
+SHA256: 067fbed4068e4cbb81eb12839e18ca364ef0167ed275f664b8b57749060b9dcf
+
+Package: com.xsf1re.nootabadgeinsetting
+Name: NoOTABadgeInSetting
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: 아니 왜... 뱃지 지우고 재부팅했는데 탈옥할 때마다 설정 화면에 뱃지 모양이 뜨죠? 상당히 껄끄럽네요.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 136
+Filename: debs/com.xsf1re.nootabadgeinsetting_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3630
+MD5sum: ce4044a6d4dd779aaeccb1a6f46729fd
+SHA1: 8655a1de8646ac318350430641b91589277ece66
+SHA256: 1011b6bbd46e416bd1493e863fd3516f30719639b90c8bbdb8ebfe2260644ace
+
+Package: com.xsf1re.power4options
+Name: Power4Options
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: 전원을 끄는 창에서 슬라이더 버튼을 한 번 누를 때마다 기능이 바뀝니다. 
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 1.1.2.1-2+debug
+Installed-Size: 159
+Filename: debs/com.xsf1re.power4options_1.1.2.1-2+debug_iphoneos-arm.deb
+Size: 18738
+MD5sum: 0159e44223fc121f1d8a1a63297bea9c
+SHA1: 2fc609e2d903a70cbd66a3546c5da6e6bf190867
+SHA256: a181f5c41a665dda5c63614bf1786cf8e6a7eb412f2ec04d673b1634cca1063d
+
+Package: com.xsf1re.youtubefor6
+Name: YoutubeFor6
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Ignore Update Alert of Youtube App running on iOS 6 Device! Confirmed on 10.11.11546 App Version.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks 
+Version: 0.1.1
+Installed-Size: 136
+Filename: debs/com.xsf1re.youtubefor6_0.1.1_iphoneos-arm.deb
+Size: 2596
+MD5sum: c6587e618182ddbe78e4ed85b27947ca
+SHA1: 4807ce792146a96ecf7fee4c55266a89025c9057
+SHA256: 51079f1dc07f127f4901d050501e7c6a47951992b8d88924ba453fbcb173e965
+
+Package: com.xsf1re.zebrakr
+Name: ZebraKR
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Zebra에 한글화 패치를 적용합니다. Zebra 1.0~beta16 버전에서 확인 완료.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 0.2.1
+Installed-Size: 180
+Filename: debs/com.xsf1re.zebrakr_0.2.1_iphoneos-arm.deb
+Size: 15234
+MD5sum: 5684ea134077a306d33680cd58165ce4
+SHA1: 6b64b794dc0fa4d118955fb7e7336faa150693c2
+SHA256: 8e3224773341df9cf5b23293b1085db5cce24ec584132cdd4a3d92f13e97f1f8
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta9
+Installed-Size: 740
+Filename: debs/kr.xsf1re.flyjb_0.2~beta9_iphoneos-arm.deb
+Size: 122412
+MD5sum: f314eaa0e4fd38fd582263c3432fb707
+SHA1: e3ba33859419c6592299e85781c9afae26570f9f
+SHA256: 501b84fa124b248c3fd603c5346785a7a379f821b89eeca781d9e07eaf52a57e
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.substrateloaderfix
+Name: SubstrateLoaderFix
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: 리브나 U+Pass, 롯데면세점 등 일부 앱과 SubstrateLoader가 서로 충돌되는 현상을 임시방편으로 고치는 역할을 합니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 0.2
+Installed-Size: 88
+Filename: debs/kr.xsf1re.substrateloaderfix_0.2_iphoneos-arm.deb
+Size: 50512
+MD5sum: ef5be9f5889efce1697c90dc8a0477be
+SHA1: d6655e0746f0517e732e6a59f289db27527f0050
+SHA256: b84b34759eacc5ca93587be382ece3bbb209aa518ceddf8a6584cffe551a1e80
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta10
+Installed-Size: 740
+Filename: debs/kr.xsf1re.flyjb_0.2~beta10_iphoneos-arm.deb
+Size: 123648
+MD5sum: e4d917c5bd9067cc94f24928e43e5030
+SHA1: eaee998910581670b34d194c0063e9806a694a50
+SHA256: 2a33c592e55b5c9785bba9bc479764775ef6d9297b2bdc8b7304d93831c71c6d
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta11
+Installed-Size: 740
+Filename: debs/kr.xsf1re.flyjb_0.2~beta11_iphoneos-arm.deb
+Size: 123562
+MD5sum: d540bb7cba26c5f17c5c5710f4c29329
+SHA1: 86a3084bbf5c3164a7dfcadf37e9864b3cbc9d0e
+SHA256: 379b93d5bde2a927800706dc93a2a99e4a87ec427aa84c0f984b7afe8549bedc
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta12
+Installed-Size: 740
+Filename: debs/kr.xsf1re.flyjb_0.2~beta12_iphoneos-arm.deb
+Size: 123374
+MD5sum: 8c0cb73fbec0dd73d9ec6b4b8e180c63
+SHA1: 589f1ec4ecefcd3956756f44b023ad1d80b88ca6
+SHA256: 278cd18e0834f1d8a67d329831f29b68faf4b747282d2ff63efc9089aef551b9
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.ebsihespeeder
+Name: EBSiHESpeeder
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: EBSi 고교강의 플레이어를 조금 개선해줍니다. 재생 속도를 세밀하게 변경하거나 되감기, 빨리감기 간격을 변경할 수 있으며 3.8.8 앱배전 및 64비트 기기에서만 작동 가능합니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 0.1
+Installed-Size: 284
+Filename: debs/kr.xsf1re.ebsihespeeder_0.1_iphoneos-arm.deb
+Size: 11222
+MD5sum: f377412cdb55159253c3bc82a617ba79
+SHA1: 6a62343db2ca517e939aaf2f2b999ef6f9b90f6c
+SHA256: 2ce54d359bfd2a32850fc949448fd3a7e8b86536e6856c634a8b55f8c64b6c14
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta13
+Installed-Size: 772
+Filename: debs/kr.xsf1re.flyjb_0.2~beta13_iphoneos-arm.deb
+Size: 124962
+MD5sum: f4d60296b039e6331f1f05debf7d07c0
+SHA1: 630c53de9112cb20a7eb243a36adf904945beca7
+SHA256: c63dbb4b7ccfbcad1887dffccbbaaa792d98e14ae6814649120e41d25566804b
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: com.xsf1re.nokatalkad
+Name: NoKaTalkAD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: (베타테스터용) 카카오톡 앱에 있는 광고를 제거합니다. 8.6.3버전에서 확인 완료. 채팅 탭에서 광고가 나타나는 버그를 수정하고 더보기 탭 뿐만 아니라 검색, 새로운 채팅 메뉴에서 더많은 광고를 제거하며 더보기 탭에서 빈 공간에 스크롤되는 버그와 메일이나 캘린더 일정 관련 메뉴가 안보이는 버그를 고쳤습니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks 
+Version: 1.3.1
+Installed-Size: 264
+Filename: debs/com.xsf1re.nokatalkad_1.3.1_iphoneos-arm.deb
+Size: 4960
+MD5sum: 7743443eadffe4ff0ec6ec45f6271e96
+SHA1: c6bd6e01bb016fa22033383514ef899bc45a6c60
+SHA256: 1134e536c91c56c4d157035147b432ff5f29a79e706cae4104f0aecb83916e77
+SileoDepiction: https://xsf1re.github.io/repo/depictions/com.xsf1re.nokatalkad/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/com.xsf1re.nokatalkad/
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta14
+Installed-Size: 804
+Filename: debs/kr.xsf1re.flyjb_0.2~beta14_iphoneos-arm.deb
+Size: 126878
+MD5sum: a0ef986ad1974fbb7101630967bed49b
+SHA1: e5184257dac2c8009f5474c1a419481705610682
+SHA256: cb867cbd0f19c8db6bd9a14ae99dc5a153c39fe8dea773a118445f304a3a69cf
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta15
+Installed-Size: 740
+Filename: debs/kr.xsf1re.flyjb_0.2~beta15_iphoneos-arm.deb
+Size: 124918
+MD5sum: 656ab8b7d866fc4bcda3fd7a35337ed7
+SHA1: edd8e6ed36e741379ea5c6effeaa50db7a65a360
+SHA256: c280e1918396ca8255e9d034d292a009e5bcb415158a9f5afecad06eab9f16fb
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta16
+Installed-Size: 740
+Filename: debs/kr.xsf1re.flyjb_0.2~beta16_iphoneos-arm.deb
+Size: 124840
+MD5sum: f49a5b393e3bfe067d94da3a29ef412e
+SHA1: 10fafc4f3114e1a176ac878889650700e5e60a69
+SHA256: ec5638c1718e2c3d7855e4988ec1ff336b1d0923ccce02524bc26bd5188ee5f4
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta17
+Installed-Size: 740
+Filename: debs/kr.xsf1re.flyjb_0.2~beta17_iphoneos-arm.deb
+Size: 125244
+MD5sum: 2a404074e425d398ae24f07f2f3bd077
+SHA1: 22a73a3120c62d1b829f8eda42a9e4f4d7783345
+SHA256: 50e9e5b70c4e5fb92b26e39d9e167c8c0ed4a6a8e43932c54713d1d85e3c94fd
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta18
+Installed-Size: 740
+Filename: debs/kr.xsf1re.flyjb_0.2~beta18_iphoneos-arm.deb
+Size: 125654
+MD5sum: 5c7d0fb6366b3d27b379f05c3be9905b
+SHA1: f9f9bc4f7bd89b74a1542cd16d5457876abd6443
+SHA256: 3be166aa4b2fb284f9b8726bee9f3eef5880d76f9a52a91fcfd45196a917f118
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta19
+Installed-Size: 740
+Filename: debs/kr.xsf1re.flyjb_0.2~beta19_iphoneos-arm.deb
+Size: 125998
+MD5sum: 1ffc5ad9b9fbad87b1cf901444122c45
+SHA1: 3c52494bce17197dbbb1ae40abd37f7ecb176003
+SHA256: 268f7c80e26404c193c70e724973d0e18da9fac2db0d20ddb6d2f7150485a631
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: (베타테스터용) 날아오르라~ 제비여! (?)
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks (탈옥감지 우회)
+Version: 0.2~beta20
+Installed-Size: 740
+Filename: debs/kr.xsf1re.flyjb_0.2~beta20_iphoneos-arm.deb
+Size: 126180
+MD5sum: 429b0cc7927bf20ac3fdc137b4d64c0b
+SHA1: 511bc80f4a8cefab215be0d020cb643726a14ca1
+SHA256: 4d654029893dd3406f4efac2d9fb37e905a280a238dab8bb41e37f20a0e82047
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
+Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/

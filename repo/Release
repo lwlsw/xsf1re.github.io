@@ -1,0 +1,8 @@
+Origin: XsF1re's Repo
+Label: 새콤한 칠리소스
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: 칠리소스가 담긴 새콤한 Repo!

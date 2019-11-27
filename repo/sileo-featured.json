@@ -1,0 +1,13 @@
+{  
+   "class":"FeaturedBannersView",
+   "itemSize":"{263, 148}",
+   "itemCornerRadius":10,
+   "banners":[
+      {  
+         "url":"https://repo.xsf1re.kr/depictions/com.xsf1re.flyjb/sileo-depiction/header.png",
+         "title":"FlyJB",
+         "package":"com.xsf1re.flyjb",
+         "hideShadow":false
+      }
+   ]
+}

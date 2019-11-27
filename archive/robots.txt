@@ -1,0 +1,8 @@
+User-agent: Yeti
+Disallow: /
+
+User-agent: crawler
+Disallow: /
+
+User-agent: *
+Disallow : /

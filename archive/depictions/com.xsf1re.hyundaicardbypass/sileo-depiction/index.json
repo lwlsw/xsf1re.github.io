@@ -1,0 +1,278 @@
+{  
+   "minVersion":"0.3",
+   "headerImage":"https://repo.xsf1re.kr/depictions/com.xsf1re.hyundaicardbypass/sileo-depiction/header.png",
+   "tintColor":"ff774f",
+   "tabs":[  
+      {  
+         "tabname":"Details",
+         "views":[  
+            {  
+               "itemCornerRadius":6,
+               "itemSize":"{168, 300}",
+               "screenshots":[  
+                  {  
+                     "accessibilityText":"Screenshot",
+                     "url":"https://repo.xsf1re.kr/depictions/com.xsf1re.hyundaicardbypass/screenshots/pic0.png"
+                  }
+               ],
+               "class":"DepictionScreenshotsView"
+            },
+            {  
+               "markdown":"현대카드 앱의 탈옥 감지를 우회합니다.<br>2.2.9 앱버전 이상에서 우회 가능합니다.",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"Bypass Jailbreak Detection of HyundaiCard App.<br>Confirmed on 2.2.9 app version.",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"정보",
+               "class":"DepictionHeaderView"
+            },
+            {  
+               "title":"버전",
+               "text":"2.1.1",
+               "class":"DepictionTableTextView"
+            },
+            {  
+               "title":"공개일",
+               "text":"2019년 9월 1일",
+               "class":"DepictionTableTextView"
+            },
+            {  
+               "title":"가격",
+               "text":"무료",
+               "class":"DepictionTableTextView"
+            },
+            {  
+               "title":"개발자",
+               "text":"XsF1re",
+               "class":"DepictionTableTextView"
+            },
+            {  
+               "title":"개발자에게 문의하기",
+               "action":"depiction-https://repo.xsf1re.kr/depictions/contact_developer.json",
+               "class":"DepictionTableButtonView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"후원",
+               "class":"DepictionHeaderView"
+            },
+            {  
+               "title":"토스로 후원하기",
+               "action":"https://repo.xsf1re.kr/depictions/resources/donate/toss.php",
+               "class":"DepictionTableButtonView"
+            },
+            {  
+               "title":"카카오페이로 후원하기",
+               "action":"https://repo.xsf1re.kr/depictions/resources/donate/kakaopay.php",
+               "class":"DepictionTableButtonView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"칠리소스가 담긴 새콤한 Repo!",
+               "class":"DepictionHeaderView"
+            },
+            {  
+               "markdown":"<small style=\"color: #000; font-size: 10pt;\">© XsF1re 2018-2019</small><style>body { text-align: center; }</style>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            }
+         ],
+         "class":"DepictionStackView"
+      },
+      {  
+         "tabname":"Changelog",
+         "views":[ 
+            {  
+               "title":"버전 2.1.1",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"일부 기기에서 작동하지 않는 오류를 수정합니다.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 9월 1일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },	
+            {  
+               "title":"버전 2.1",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"탈옥감지 우회 루틴 최적화 및 트윅 용량 소폭 감소",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 8월 31일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },	
+            {  
+               "title":"버전 2.0.1",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"iOS 10 및 일부 기기에서 작동하지 않는 오류를 수정합니다.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 8월 10일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },	
+            {  
+               "title":"버전 2.0",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"영구 탈옥감지 우회루틴으로 개선 및 최적화",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 7월 31일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },		 
+            {  
+               "title":"버전 1.4",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"현대카드앱 탈옥감지 우회 트윅이 2.2.6 앱버전과 호환되도록 업데이트했습니다.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 7월 3일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 1.3",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"현대카드앱 탈옥감지 우회 트윅이 2.2.5 앱버전과 호환되도록 업데이트했습니다.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 5월 23일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 1.2",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"현대카드앱 탈옥감지 우회 트윅이 2.2.4 앱버전과 호환되도록 업데이트했습니다.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 5월 1일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 1.1",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"현대카드앱 탈옥감지 우회 트윅이 2.2.3 앱버전과 호환되도록 업데이트했습니다.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 4월 28일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"버전 1.0-1",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"현대카드앱 탈옥감지 우회 트윅 첫 출시.<br>2.2.2 앱버전과 호환됩니다.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 3월 24일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "markdown":"<small style=\"color: #000; font-size: 10pt;\">© XsF1re 2018-2019</small><style>body { text-align: center; }</style>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            }
+         ],
+         "class":"DepictionStackView"
+      }
+   ],
+   "class":"DepictionTabView"
+}

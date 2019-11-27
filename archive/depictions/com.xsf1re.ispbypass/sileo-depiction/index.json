@@ -1,0 +1,126 @@
+{  
+   "minVersion":"0.3",
+   "headerImage":"https://repo.xsf1re.kr/depictions/com.xsf1re.ispbypass/sileo-depiction/header.png",
+   "tintColor":"ff774f",
+   "tabs":[  
+      {  
+         "tabname":"Details",
+         "views":[  
+            {  
+               "itemCornerRadius":6,
+               "itemSize":"{168, 300}",
+               "screenshots":[  
+                  {  
+                     "accessibilityText":"Screenshot",
+                     "url":"https://repo.xsf1re.kr/depictions/com.xsf1re.ispbypass/screenshots/pic0.png"
+                  }
+               ],
+               "class":"DepictionScreenshotsView"
+            },
+            {  
+               "markdown":"ISP/페이북 앱의 탈옥 감지를 우회합니다.<br>6.1.2 앱버전에서 작동 확인했습니다.",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"Bypass Jailbreak Detection of ISP/Paybooc App.<br>Confirmed on 6.1.2 app version.",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"정보",
+               "class":"DepictionHeaderView"
+            },
+            {  
+               "title":"버전",
+               "text":"1.0",
+               "class":"DepictionTableTextView"
+            },
+            {  
+               "title":"공개일",
+               "text":"2019년 05월 20일",
+               "class":"DepictionTableTextView"
+            },
+            {  
+               "title":"가격",
+               "text":"무료",
+               "class":"DepictionTableTextView"
+            },
+            {  
+               "title":"개발자",
+               "text":"XsF1re",
+               "class":"DepictionTableTextView"
+            },
+            {  
+               "title":"개발자에게 문의하기",
+               "action":"depiction-https://repo.xsf1re.kr/depictions/contact_developer.json",
+               "class":"DepictionTableButtonView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"후원",
+               "class":"DepictionHeaderView"
+            },
+            {  
+               "title":"토스로 후원하기",
+               "action":"https://repo.xsf1re.kr/depictions/resources/donate/toss.php",
+               "class":"DepictionTableButtonView"
+            },
+            {  
+               "title":"카카오페이로 후원하기",
+               "action":"https://repo.xsf1re.kr/depictions/resources/donate/kakaopay.php",
+               "class":"DepictionTableButtonView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "title":"칠리소스가 담긴 새콤한 Repo!",
+               "class":"DepictionHeaderView"
+            },
+            {  
+               "markdown":"<small style=\"color: #000; font-size: 10pt;\">© XsF1re 2018-2019</small><style>body { text-align: center; }</style>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            }
+         ],
+         "class":"DepictionStackView"
+      },
+      {  
+         "tabname":"Changelog",
+         "views":[  
+            {  
+               "title":"버전 1.0",
+               "useBoldText":true,
+               "useBottomMargin":true,
+               "class":"DepictionSubheaderView"
+            },
+            {  
+               "markdown":"ISP/페이북 앱 탈옥감지 우회 트윅 첫 출시.<br>6.1.2 앱버전에서 작동 확인했습니다.",
+               "useSpacing":false,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 5월 20일에 업데이트됨</small>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            },
+            {  
+               "class":"DepictionSeparatorView"
+            },
+            {  
+               "markdown":"<small style=\"color: #000; font-size: 10pt;\">© XsF1re 2018-2019</small><style>body { text-align: center; }</style>",
+               "useRawFormat":true,
+               "class":"DepictionMarkdownView"
+            }
+         ],
+         "class":"DepictionStackView"
+      }
+   ],
+   "class":"DepictionTabView"
+}
