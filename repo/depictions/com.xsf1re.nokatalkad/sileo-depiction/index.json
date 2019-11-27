@@ -1,6 +1,6 @@
 {  
    "minVersion":"0.3",
-   "headerImage":"https://repo.xsf1re.kr/depictions/com.xsf1re.nokatalkad/sileo-depiction/header.png",
+   "headerImage":"https://xsf1re.github.io/repo/depictions/com.xsf1re.nokatalkad/sileo-depiction/header.png",
    "tintColor":"ff774f",
    "tabs":[  
       {  
@@ -12,7 +12,7 @@
                "screenshots":[  
                   {  
                      "accessibilityText":"Screenshot",
-                     "url":"https://repo.xsf1re.kr/depictions/com.xsf1re.nokatalkad/screenshots/pic0.png"
+                     "url":"https://xsf1re.github.io/repo/depictions/com.xsf1re.nokatalkad/screenshots/pic0.png"
                   }
                ],
                "class":"DepictionScreenshotsView"
@@ -56,7 +56,7 @@
             },
             {  
                "title":"개발자에게 문의하기",
-               "action":"depiction-https://repo.xsf1re.kr/depictions/contact_developer.json",
+               "action":"depiction-https://xsf1re.github.io/repo/depictions/contact_developer.json",
                "class":"DepictionTableButtonView"
             },
             {  
@@ -68,12 +68,12 @@
             },
             {  
                "title":"토스로 후원하기",
-               "action":"https://repo.xsf1re.kr/depictions/resources/donate/toss.html",
+               "action":"https://xsf1re.github.io/repo/depictions/resources/donate/toss.html",
                "class":"DepictionTableButtonView"
             },
             {  
                "title":"카카오페이로 후원하기",
-               "action":"https://repo.xsf1re.kr/depictions/resources/donate/kakaopay.html",
+               "action":"https://xsf1re.github.io/repo/depictions/resources/donate/kakaopay.html",
                "class":"DepictionTableButtonView"
             },
             {  
