@@ -481,10 +481,10 @@ Section: Tweaks (탈옥감지 우회)
 Version: 0.2~beta20
 Installed-Size: 740
 Filename: debs/kr.xsf1re.flyjb_0.2~beta20_iphoneos-arm.deb
-Size: 126180
-MD5sum: 429b0cc7927bf20ac3fdc137b4d64c0b
-SHA1: 511bc80f4a8cefab215be0d020cb643726a14ca1
-SHA256: 4d654029893dd3406f4efac2d9fb37e905a280a238dab8bb41e37f20a0e82047
+Size: 126078
+MD5sum: 9024f2084e77841e8bf24955b40ce91b
+SHA1: b0caa62f8ea3fd786b5da9e75d6e79cd1baf9c39
+SHA256: bc78d297721bfe63bf48055bbd69935cce23dd0e0c0b6ac700d6900e5c6b2d6f
 Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
 SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
 Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
