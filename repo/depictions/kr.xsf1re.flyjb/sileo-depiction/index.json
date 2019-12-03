@@ -36,12 +36,12 @@
             },
             {  
                "title":"버전",
-               "text":"0.2~beta22",
+               "text":"0.2~beta23",
                "class":"DepictionTableTextView"
             },
             {  
                "title":"공개일",
-               "text":"2019년 12월 2일",
+               "text":"2019년 12월 3일",
                "class":"DepictionTableTextView"
             },
             {  
@@ -95,7 +95,7 @@
          "tabname":"Changelog",
          "views":[  
             {  
-               "title":"버전 0.2~beta22",
+               "title":"버전 0.2~beta23",
                "useBoldText":true,
                "useBottomMargin":true,
                "class":"DepictionSubheaderView"
@@ -106,7 +106,7 @@
                "class":"DepictionMarkdownView"
             },
             {  
-               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 11월 25일에 업데이트됨</small>",
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019년 12월 3일에 업데이트됨</small>",
                "useRawFormat":true,
                "class":"DepictionMarkdownView"
             },
