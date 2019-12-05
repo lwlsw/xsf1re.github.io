@@ -583,3 +583,19 @@ SHA256: 6f115f2702a5fefb09b49275581c2532492f4c8d2e9039b339a904d7a1536e55
 Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
 SileoDepiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/sileo-depiction/index.json
 Depiction: https://xsf1re.github.io/repo/depictions/kr.xsf1re.flyjb/
+
+Package: kr.xsf1re.ebsihespeeder
+Name: EBSiHESpeeder
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: EBSi 고교강의 플레이어를 조금 개선해줍니다. 재생 속도를 세밀하게 변경하거나 되감기, 빨리감기 간격을 변경할 수 있으며 3.9.1 앱배전 및 64비트 기기에서만 작동 가능합니다.
+Maintainer: XsF1re <shg1725x@yahoo.com>
+Author: XsF1re <shg1725x@yahoo.com>
+Section: Tweaks
+Version: 0.1.1
+Installed-Size: 540
+Filename: debs/kr.xsf1re.ebsihespeeder_0.1_iphoneos-arm.deb
+Size: 18822
+MD5sum: ef5faac8fbfc179b31dff395c512afe7
+SHA1: e4270d21f4aee1f9cf94dc621d8d869625a5dd3c
+SHA256: 824e1d61b66967cece5c0114e2dd1096999bffb5d2a30d89d7c21d5205184a64
