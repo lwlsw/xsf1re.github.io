@@ -1,120 +1,120 @@
-{  
+{
    "minVersion":"0.3",
    "headerImage":"https://xsf1re.github.io/repo/depictions/com.xsf1re.flyjb/sileo-depiction/header.png",
    "tintColor":"ff774f",
-   "tabs":[  
-      {  
+   "tabs":[
+      {
          "tabname":"Details",
-         "views":[  
-            {  
+         "views":[
+            {
                "itemCornerRadius":6,
                "itemSize":"{168, 300}",
-               "screenshots":[  
-                  {  
+               "screenshots":[
+                  {
                      "accessibilityText":"Screenshot",
                      "url":"https://xsf1re.github.io/repo/depictions/com.xsf1re.flyjb/screenshots/pic0.png"
                   }
                ],
                "class":"DepictionScreenshotsView"
             },
-            {  
-               "markdown":"(º£Å¸Å×½ºÅÍ¿ë) ³¯¾Æ¿À¸£¶ó~ Á¦ºñ¿©!<br>±¹³»¿¡¼­ Å»¿ÁÀ» °¨ÁöÇÏ´Â ´ëºÎºĞÀÇ ¾ÛÀ» ¿ìÈ¸ÇÕ´Ï´Ù.",
+            {
+               "markdown":"(ë² íƒ€í…ŒìŠ¤í„°ìš©) ë‚ ì•„ì˜¤ë¥´ë¼~ ì œë¹„ì—¬!<br>êµ­ë‚´ì—ì„œ íƒˆì˜¥ì„ ê°ì§€í•˜ëŠ” ëŒ€ë¶€ë¶„ì˜ ì•±ì„ ìš°íšŒí•©ë‹ˆë‹¤.",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
             },
-            {  
+            {
                "markdown":"Bypass Jailbreak Detection of Korean App.",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
             },
-            {  
+            {
                "class":"DepictionSeparatorView"
             },
-            {  
-               "title":"Á¤º¸",
+            {
+               "title":"ì •ë³´",
                "class":"DepictionHeaderView"
             },
-            {  
-               "title":"¹öÀü",
-               "text":"0.2~beta25",
+            {
+               "title":"ë²„ì „",
+               "text":"0.2~beta26",
                "class":"DepictionTableTextView"
             },
-            {  
-               "title":"°ø°³ÀÏ",
-               "text":"2019³â 12¿ù 4ÀÏ",
+            {
+               "title":"ê³µê°œì¼",
+               "text":"2019ë…„ 12ì›” 6ì¼",
                "class":"DepictionTableTextView"
             },
-            {  
-               "title":"°¡°İ",
-               "text":"¹«·á",
+            {
+               "title":"ê°€ê²©",
+               "text":"ë¬´ë£Œ",
                "class":"DepictionTableTextView"
             },
-            {  
-               "title":"°³¹ßÀÚ",
+            {
+               "title":"ê°œë°œì",
                "text":"XsF1re",
                "class":"DepictionTableTextView"
             },
-            {  
-               "title":"°³¹ßÀÚ¿¡°Ô ¹®ÀÇÇÏ±â",
+            {
+               "title":"ê°œë°œìì—ê²Œ ë¬¸ì˜í•˜ê¸°",
                "action":"depiction-https://xsf1re.github.io/repo/depictions/contact_developer.json",
                "class":"DepictionTableButtonView"
             },
-            {  
+            {
                "class":"DepictionSeparatorView"
             },
-            {  
-               "title":"ÈÄ¿ø",
+            {
+               "title":"í›„ì›",
                "class":"DepictionHeaderView"
             },
-            {  
-               "title":"Åä½º·Î ÈÄ¿øÇÏ±â",
+            {
+               "title":"í† ìŠ¤ë¡œ í›„ì›í•˜ê¸°",
                "action":"https://xsf1re.github.io/repo/depictions/resources/donate/toss.html",
                "class":"DepictionTableButtonView"
             },
-            {  
-               "title":"Ä«Ä«¿ÀÆäÀÌ·Î ÈÄ¿øÇÏ±â",
+            {
+               "title":"ì¹´ì¹´ì˜¤í˜ì´ë¡œ í›„ì›í•˜ê¸°",
                "action":"https://xsf1re.github.io/repo/depictions/resources/donate/kakaopay.html",
                "class":"DepictionTableButtonView"
             },
-            {  
+            {
                "class":"DepictionSeparatorView"
             },
-            {  
-               "title":"Ä¥¸®¼Ò½º°¡ ´ã±ä »õÄŞÇÑ Repo!",
+            {
+               "title":"ì¹ ë¦¬ì†ŒìŠ¤ê°€ ë‹´ê¸´ ìƒˆì½¤í•œ Repo!",
                "class":"DepictionHeaderView"
             },
-            {  
-               "markdown":"<small style=\"color: #000; font-size: 10pt;\">¨Ï XsF1re 2018-2019</small><style>body { text-align: center; }</style>",
+            {
+               "markdown":"<small style=\"color: #000; font-size: 10pt;\">â“’ XsF1re 2018-2019</small><style>body { text-align: center; }</style>",
                "useRawFormat":true,
                "class":"DepictionMarkdownView"
             }
          ],
          "class":"DepictionStackView"
       },
-      {  
+      {
          "tabname":"Changelog",
-         "views":[  
-            {  
-               "title":"¹öÀü 0.2~beta25",
+         "views":[
+            {
+               "title":"ë²„ì „ 0.2~beta26",
                "useBoldText":true,
                "useBottomMargin":true,
                "class":"DepictionSubheaderView"
             },
-            {  
-               "markdown":"ÀÚ¼¼ÇÑ ¾÷µ¥ÀÌÆ® »çÇ×Àº ¼³Á¤¿¡ ÀÖ´Â ÆĞÄ¡ ³»¿ë º¸±â¸¦ ÅëÇØ ¾Ë¾Æº¸¼¼¿ä.",
+            {
+               "markdown":"ìì„¸í•œ ì—…ë°ì´íŠ¸ ì‚¬í•­ì€ ì„¤ì •ì— ìˆëŠ” íŒ¨ì¹˜ ë‚´ìš© ë³´ê¸°ë¥¼ í†µí•´ ì•Œì•„ë³´ì„¸ìš”.",
                "useSpacing":false,
                "class":"DepictionMarkdownView"
             },
-            {  
-               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019³â 12¿ù 4ÀÏ¿¡ ¾÷µ¥ÀÌÆ®µÊ</small>",
+            {
+               "markdown":"<small style=\"color: #999; margin-top: -8px;\">2019ë…„ 12ì›” 6ì¼ì— ì—…ë°ì´íŠ¸ë¨</small>",
                "useRawFormat":true,
                "class":"DepictionMarkdownView"
             },
-            {  
+            {
                "class":"DepictionSeparatorView"
             },
-            {  
-               "markdown":"<small style=\"color: #000; font-size: 10pt;\">¨Ï XsF1re 2018-2019</small><style>body { text-align: center; }</style>",
+            {
+               "markdown":"<small style=\"color: #000; font-size: 10pt;\">â“’ XsF1re 2018-2019</small><style>body { text-align: center; }</style>",
                "useRawFormat":true,
                "class":"DepictionMarkdownView"
             }
